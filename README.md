@@ -1,5 +1,5 @@
 # freight_project
-This is a python program that mange boxes and container model after  a freight management operation 
+# This is a python program that mange boxes and container model after  a freight management operation 
 
 - It execute single and multi-table SQL statement
 
